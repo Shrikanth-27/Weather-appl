@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Weather-appl/static/css/main.e43d6c4e.css",
+    "main.js": "/Weather-appl/static/js/main.4dccc37e.js",
+    "static/js/453.cbe19354.chunk.js": "/Weather-appl/static/js/453.cbe19354.chunk.js",
+    "static/media/weather.webp": "/Weather-appl/static/media/weather.8f96950ac946c18345f6.webp",
+    "static/media/cloud.png": "/Weather-appl/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Weather-appl/index.html",
+    "main.e43d6c4e.css.map": "/Weather-appl/static/css/main.e43d6c4e.css.map",
+    "main.4dccc37e.js.map": "/Weather-appl/static/js/main.4dccc37e.js.map",
+    "453.cbe19354.chunk.js.map": "/Weather-appl/static/js/453.cbe19354.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e43d6c4e.css",
+    "static/js/main.4dccc37e.js"
+  ]
+}
